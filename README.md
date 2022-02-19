@@ -1,2 +1,2 @@
-# my-site-2
+# business card
 Сontact site example
